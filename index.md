@@ -41,16 +41,14 @@ text-decoration: none;
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">766社区</a>
+            [766社区](/)
         </div>
         <div id="navbar" class="collapse navbar-collapse">
-        	<ul class="nav navbar-nav navbar-right">
 
-            	<li><a href="/"><span class="glyphicon glyphicon-home"></span> 首页</a></li>
-                                <li><a href="http://weibo.com/Giracle"><span class="glyphicon glyphicon-registration-mark"></span> 微博</a>
-			        <li><a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=kaWloKCnoaGlodHg4L-y-vw"><span class="glyphicon glyphicon-exclamation-sign"></span> 邮我</a>
-				<li><a href="http://qqapi.tengit.com/config/api.php?api=qunapi&number=378502351"><span class="glyphicon glyphicon-bell"></span> 圈子</a>
-        	</li></ul>
+*   [<span class="glyphicon glyphicon-home"></span> 首页](/)
+*   [<span class="glyphicon glyphicon-registration-mark"></span> 微博](http://weibo.com/Giracle)
+			        <li>[<span class="glyphicon glyphicon-exclamation-sign"></span> 邮我](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=kaWloKCnoaGlodHg4L-y-vw)
+				<li>[<span class="glyphicon glyphicon-bell"></span> 圈子](http://qqapi.tengit.com/config/api.php?api=qunapi&number=378502351)
       	</div>
     </div>
 </nav><div class="container" style="padding-top:60px;">
@@ -58,54 +56,72 @@ text-decoration: none;
         <div class="panel panel-default">
             <div class="panel-body">
                  <div class="speedbar">
-				 <div class="toptip"><strong class="text-success"><marquee onmouseout="this.start()" onmouseover="this.stop()" direction="left" scrollamount="6">
-     		  <span style="color:#f00"><i class="glyphicon glyphicon-bullhorn"></i> 公告大喇叭：</span>新增:欢迎来到766社区</script>
-</div></marquee></strong></div><strong class="text-success">
-        </strong></div><strong class="text-success">	
-        </strong></div><strong class="text-success">
-    </strong></div><strong class="text-success">
+				 <div class="toptip">**<marquee onmouseout="this.start()" onmouseover="this.stop()" direction="left" scrollamount="6">
+     		  <span style="color:#f00"> 公告大喇叭：</span>新增:欢迎来到766社区</script>
+</div></marquee>**</div>**
+        **</div>**	
+        **</div>**
+    **</div><strong class="text-success">
     <div class="col-md-14 column">
         <div class="panel panel-default">
             <div class="panel-body">
-<code>&lt;首页置顶&gt;</code><a href="http://music.163.com/playlist/3117599885/543645406/?userid=543645406" target="new">望一生温柔热烈</a><br>
+`&lt;首页置顶&gt;`[望一生温柔热烈](http://music.163.com/playlist/3117599885/543645406/?userid=543645406)
+
 </script>
 </center>
-</p><hr>
-<code>&lt;首页置顶&gt;</code><a href="" target="new">广告位</a><br>
+</p>
+
+* * *
+
+`&lt;首页置顶&gt;`[广告位]()
+
           </div>
         </div>
     </div>   
-<p>
-<hr />
+
+* * *
+
     </div> 
 <div class="panel-group" id="accordion">
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          <center><i class="glyphicon glyphicon-thumbs-up"></i> <span class="badge pull-right">☆</span>今日看点</center>
-        </a>
-      </h4>
+
+#### 
+        [
+          <center> <span class="badge pull-right">☆</span>今日看点</center>
+        ](#collapseOne)
+
     </div>
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
-		<ul class="wo-entry-list file_list"><li><p><a href="https://guvei.wodemo.net/entry/529204"><button type="button" class="btn btn-default btn-block">反反复复</button></a></p></li><li><p><a href="https://guvei.wodemo.net/entry/529018"><button type="button" class="btn btn-default btn-block">健身房</button></a></p></li><li><p><a href="https://guvei.wodemo.net/entry/528445"><button type="button" class="btn btn-default btn-block">慕课网高中</button></a></p></li><li><p><a href="https://guvei.wodemo.net/entry/528362"><button type="button" class="btn btn-default btn-block">高中课本</button></a></p></li></ul>			</div>
+
+*   <p>[<button type="button" class="btn btn-default btn-block">反反复复</button>](https://guvei.wodemo.net/entry/529204)
+
+*   [<button type="button" class="btn btn-default btn-block">健身房</button>](https://guvei.wodemo.net/entry/529018)
+
+*   [<button type="button" class="btn btn-default btn-block">慕课网高中</button>](https://guvei.wodemo.net/entry/528445)
+
+*   [<button type="button" class="btn btn-default btn-block">高中课本</button>](https://guvei.wodemo.net/entry/528362)			</div>
 		</div>
-	</div><br>
-<p>
+	</div>
+
 <div class="col-md-14 column">
 		<div class="panel panel-default">
 			<div class="panel-heading">
-				<h4
-class="panel-title">
+
+#### 
 					友情链接
-				</h3>
+
 			</div>
 			<div class="panel-body">
 			   <p>
-<a href="www.whycan.ml" target="new"><button type="button" title="GC博客,乐享资源 记忆点滴!" class="btn btn-warning btn-sm">GC博客</button></a></p><hr>
-				  <p><a href="https://gu1.wodemo.net/entry/528283"><button type="button" class="btn btn-success btn-block">关于我们 <i class="glyphicon glyphicon-tint"></i></button></a></p>
-				  <p> <a href="http://whycan.ys168.com"> <button class="btn btn-danger btn-block" data-toggle="modal" data-target="#myModal">存储系统 <i class="glyphicon glyphicon-link"></i></button></p>
+[<button type="button" title="GC博客,乐享资源 记忆点滴!" class="btn btn-warning btn-sm">GC博客</button>](www.whycan.ml)
+
+* * *
+
+[<button type="button" class="btn btn-success btn-block">关于我们 </button>](https://gu1.wodemo.net/entry/528283)
+
+ <a href="http://whycan.ys168.com"> <button class="btn btn-danger btn-block" data-toggle="modal" data-target="#myModal">存储系统 </button>
 
 </SCRIPT> 
 
